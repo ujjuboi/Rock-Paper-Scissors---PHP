@@ -1,4 +1,4 @@
-# Rock Paper Scissiors Game:
+# Rock Paper Scissors Game:
 
 A simple Rock Paper Scissors game with a login page created with HTML, CSS & PHP.
 
