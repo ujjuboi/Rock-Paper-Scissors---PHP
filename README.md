@@ -1,4 +1,4 @@
-# Rock :rock: Paper :paper: Scissors :scissors: Game:
+# Rock :fist: Paper :raised_hand_with_fingers_splayed: Scissors :v: Game:
 <a href = "http://rockps.42web.io/">Check it out!</a>
 
 A simple Rock Paper Scissors game with a login page created with HTML, CSS & PHP.
