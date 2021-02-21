@@ -1,6 +1,6 @@
 # Rock :rock: Paper :paper: Scissors :scissors: Game:
+<a href = "http://rockps.42web.io/">Check it out!</a>
 
-[http://rockps.42web.io/](http://rockps.42web.io/)
 A simple Rock Paper Scissors game with a login page created with HTML, CSS & PHP.
 
 The user plays against the computer. The move of the computer is generated using built in rand() fucntion of PHP. 
