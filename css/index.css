@@ -137,3 +137,17 @@ form{
  .alert a{
      text-decoration: none;
  }
+
+ img{
+    cursor: pointer;    
+    margin: 5%;
+    height: 110px;
+    transition-timing-function: ease;
+    transition-property: height, border;
+    transition-delay: 0.25s;
+    transition-duration: 0.5s;
+}
+
+img:hover{
+    height: 115px;
+}

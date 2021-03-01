@@ -85,7 +85,7 @@
         </form>
     </main>
     <footer>
-        <p>Courtesy: Ujjwal Verma, Bidoliboi!</p>   
+        <p>Courtesy: Ujjwal Verma</p>   
     </footer>
 </body>
 </html>
