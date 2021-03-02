@@ -1,6 +1,6 @@
 # Rock :fist: Paper :raised_hand_with_fingers_splayed: Scissors :v: Game:
 
-<a href = "rockpapers.great-site.net">Check it out!</a> (Site under development)
+<a href = "http://rockpapers.great-site.net/">Check it out!</a> 
 
 A simple Rock Paper Scissors game with a login page created with HTML, CSS & PHP.
 
