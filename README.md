@@ -1,6 +1,6 @@
 # Rock :fist: Paper :raised_hand_with_fingers_splayed: Scissors :v: Game:
 
-<a href = "http://rockpapers.infinityfreeapp.com/">Check it out!</a> 
+<a href = "http://rockpapers.infinityfreeapp.com/" target = "_blank">Check it out!</a> 
 
 A simple Rock Paper Scissors game with a login page created with HTML, CSS & PHP.
 
